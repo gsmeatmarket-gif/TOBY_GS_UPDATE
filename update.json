@@ -1,6 +1,6 @@
 {
-  "version": "8.0.0",
-  "build": "2026.07.02",
-  "download_url": "",
-  "message": "TOBY GS PRO V8 최신 버전입니다."
+  "version": "8.2.2",
+  "build": "2026.07.03",
+  "download_url": "https://github.com/gsmeatmarket-gif/TOBY_GS_UPDATE/releases/download/v8.2.2/TOBY_GS_PRO_V8_2_2_Setup.exe",
+  "message": "TOBY GS PRO V8.2.2 최신 버전입니다."
 }
