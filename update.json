@@ -1,6 +1,6 @@
 {
-  "version": "8.3.0",
-  "build": "2026.07.04",
- "download_url": "https://github.com/gsmeatmarket-gif/TOBY_GS_UPDATE/releases/download/v8.3.0/TOBY_GS_PRO_V8_3_0_Setup.exe",
-  "message": "TOBY GS PRO V8.3.0 매입 대시보드 업데이트입니다."
+    "version": "8.3.1",
+    "build": "2026.07.05",
+    "download_url": "https://github.com/gsmeatmarket-gif/TOBY_GS_UPDATE/releases/download/v8.3.1/TOBY_GS_PRO_V8_3_1_Setup.exe",
+    "message": "TOBY GS PRO V8.3.1 벤더 관리 및 미국식 날짜 표준화 업데이트입니다."
 }
