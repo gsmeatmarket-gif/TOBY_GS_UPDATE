@@ -1,6 +1,6 @@
 {
-    "version": "9.0.0",
-    "build": "2026.07.07",
-    "download_url": "https://github.com/gsmeatmarket-gif/TOBY_GS_UPDATE/releases/download/v9.0.0/TOBY_GS_PRO_V9_0_0_Foundation_Setup.exe",
-    "message": "TOBY GS PRO V9.0.0 Foundation Release - Migration Center & Customer Import Wizard"
+    "version": "9.1.0",
+    "build": "2026.07.10",
+    "download_url": "https://github.com/gsmeatmarket-gif/TOBY_GS_UPDATE/releases/download/v9.1.0/TOBY_GS_PRO_V9_1_0_Foundation_Setup.exe",
+    "message": "Customer Migration Engine V1 is now available.\n\nNew Features:\n- Migration Center\n- Customer Import Wizard\n- CSV Reader\n- Column Mapping\n- Duplicate Check\n- Import Engine\n- Import Report"
 }
